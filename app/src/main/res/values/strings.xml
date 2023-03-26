@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aston-3</string>
+    <string name="url_text">https://picsum.photos/200</string>
+    <string name="download_button">download image</string>
 </resources>
